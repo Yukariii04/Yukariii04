@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Kalpit Vaghela, a frontend developer specializing in 3D interactive websites built with React, Three.js, and GSAP. I focus on converting Figma designs into functional code with custom scroll-reveals, 3D scenes, and responsive layouts.<br><br>Currently building CLAIRE — my passion project, a sentient AI assistant waifu with a custom Text-to-Speech engine featuring emotion-conditioned speech synthesis. Alongside that, I maintain active freelance work on Fiverr, delivering premium landing pages and digital portfolios.<br><br>My service provides clean, modular React components for premium landing pages and digital portfolios. I prioritize smooth performance and precise technical execution to ensure interactive interfaces work seamlessly across devices
+I'm Kalpit Vaghela, an AI-Native Developer and a Pre-Final Year B.Tech Computer Science Engineering (Full Stack Development) student.
+
+I enjoy building practical software, intelligent applications, and developer-focused tools by combining strong software engineering fundamentals with modern AI technologies. My interests lie in creating efficient, scalable systems that solve real-world problems while continuously exploring new ideas in artificial intelligence, automation, and full-stack development.
+
+Currently, I'm focused on learning, building impactful projects, and growing as a developer through hands-on experience and continuous experimentation.
 
 
 ## 🌐 Socials:
